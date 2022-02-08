@@ -1,7 +1,7 @@
 '''
 Created by Noah Robinson
 Description: This code will store user names and passwords for the user
-8/2/2020 - Present
+8/2/2020
 '''
 import random
 with open('book.txt', 'a+') as file:
